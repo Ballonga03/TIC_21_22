@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>¿QUÉ PERRO DE TODOS ES EL MÁS FACHERO SEGÚN LA GENTE?</h2>
+
+<table>
+  <tr>
+    <th>QUE PERRO ES</th>
+    <th>NOMBRE DEL PERRO</th>
+    <th>RANCKING DE LOS MÁS FACHEROS</th>
+  </tr>
+  <tr>
+    <td>El perro fachero</td>
+    <td>Hermenegildo</td>
+    <td>1º</td>
+  </tr>
+  <tr>
+    <td>El perrhumano</td>
+    <td>Federico Huele Rico</td>
+    <td>4º</td>
+  </tr>
+  <tr>
+    <td>El perrovoladooor</td>
+    <td>Tetazas Alonso</td>
+    <td>6º</td>
+  </tr>
+  <tr>
+    <td>Mr.Golden</td>
+    <td>Torrente Ballester</td>
+    <td>2º</td>
+  </tr>
+  <tr>
+    <td>Perro Elvis</td>
+    <td>Grimflunken</td>
+    <td>3º</td>
+  </tr>
+  <tr>
+    <td>El perro rata</td>
+    <td>Alfredo</td>
+    <td>5º</td>
+  </tr>
+</table>
+
+</body>
+</html>
